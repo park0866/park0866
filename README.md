@@ -1,9 +1,11 @@
-### Welcome😄
+### park0866 :  :art: Front-End Engineer & UX/UI Designer
+----
 <div align=center>
+
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-  </div>
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpark0866&count_bg=%23BCBCBC&title_bg=%238DAAF9&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
 <!--
 **park0866/park0866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
