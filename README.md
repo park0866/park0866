@@ -1,5 +1,5 @@
-
-### park0866 :  :art: Front-End Engineer & UX/UI Designer
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sehyeon_Park%20&fontSize=80)
+### park0866 (SehyeonPark) :  :art: Front-End Engineer & UX/UI Designer
 
 ***
 <br/>
