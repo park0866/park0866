@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sehyeon_Park%20&fontSize=80)
-### 🎨 Front-End Engineer & UX/UI Designer 🖌️
-
+## 🎨 Front-End Engineer & UX/UI Designer 🖌️
+### 🛠 Tech Stack
 ***
 <br/>
 <div align=center>
